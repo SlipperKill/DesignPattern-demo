@@ -1,0 +1,19 @@
+/**
+ * Created on 2018年4月3日 by caiming
+ */
+package com.demo.factoryMethod;
+public class LeiFeng {
+
+	public void sweep(){
+		System.out.println("扫地");
+	}
+	
+	public void wash(){
+		System.out.println("洗衣");
+	}
+	
+	public void buyRice(){
+		System.out.println("买米");
+	}
+}
+

@@ -1,0 +1,9 @@
+/**
+ * Created on 2018年4月2日 by caiming
+ */
+package com.demo.strategy;
+
+public interface CashSuper {
+
+	public double acceptCash(double money) ;
+}
